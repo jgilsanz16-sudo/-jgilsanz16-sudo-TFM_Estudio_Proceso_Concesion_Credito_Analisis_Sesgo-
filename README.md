@@ -63,9 +63,6 @@ La comparación de modelos utiliza particiones estratificadas y separa la selecc
 ├── 05_benchmark_machine_learning.ipynb
 ├── 06_red_neuronal.ipynb
 ├── 07_interpretabilidad_shap.ipynb
-├── data
-│   ├── raw
-│   └── processed
 ├── requirements.txt
 └── README.md
 ```
