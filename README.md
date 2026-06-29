@@ -1,6 +1,6 @@
 # Modelos de riesgo de crédito: rendimiento, sesgo e interpretabilidad
 
-Este repositorio recoge el trabajo técnico de un TFM desarrollado en CUNEF Universidad en colaboración con PwC. El proyecto estudia la concesión de crédito hipotecario en Estados Unidos desde tres perspectivas complementarias: capacidad predictiva, equidad entre grupos e interpretabilidad de los modelos.
+Este repositorio recoge el trabajo técnico de mi TFM del máster de Ciencia de Datos en CUNEF Universidad. El proyecto estudia la concesión de crédito hipotecario en Estados Unidos desde tres perspectivas complementarias: capacidad predictiva, equidad entre grupos e interpretabilidad de los modelos.
 
 El objetivo no es únicamente obtener buenas métricas de clasificación. También se analiza si los errores y las decisiones del modelo presentan diferencias por sexo, raza o etnia, y hasta qué punto esas diferencias pueden mitigarse sin deteriorar de forma excesiva el rendimiento.
 
